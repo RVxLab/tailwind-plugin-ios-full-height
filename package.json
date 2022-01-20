@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/RVxLab/tailwind-plugin-ios-full-height#readme",
   "peerDependencies": {
-    "tailwindcss": "^1.2 || ^2.0"
+    "tailwindcss": "^1.2 || ^2.0 || ^3.0"
   }
 }
