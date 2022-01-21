@@ -1,6 +1,6 @@
 {
   "name": "@rvxlab/tailwind-plugin-ios-full-height",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A TailwindCSS plugin to add utilities for 100vh on iOS",
   "main": "src/plugin.js",
   "scripts": {
