@@ -1,5 +1,10 @@
 # Tailwind Plugin for correct full height on iOS
 
+![Latest version](https://img.shields.io/npm/v/@rvxlab/tailwind-plugin-ios-full-height?label=NPM&style=flat-square)
+![Supported TailwindCSS versions](https://img.shields.io/npm/dependency-version/@rvxlab/tailwind-plugin-ios-full-height/peer/tailwindcss?label=TailwindCSS&style=flat-square)
+![Weekly downloads](https://img.shields.io/npm/dw/@rvxlab/tailwind-plugin-ios-full-height?label=Weekly%20downloads&style=flat-square)
+![Total downloads](https://img.shields.io/npm/dt/@rvxlab/tailwind-plugin-ios-full-height?label=Total%20downloads&style=flat-square)
+
 A TailwindCSS plugin to add utilities for 100vh on iOS
 
 ## About
