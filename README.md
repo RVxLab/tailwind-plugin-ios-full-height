@@ -7,6 +7,12 @@
 
 A TailwindCSS plugin to add utilities for 100vh on iOS
 
+## Deprecated
+
+With Tailwind 4 now out, the team intending to use CSS for plugins and [the `svh` unit having broad support](https://caniuse.com/mdn-css_types_length_viewport_percentage_units_small), it's time to sunset this plugin. 
+
+Feel free to keep using this plugin, it's not going anywhere, but you're better off using the [`min-h-svh`](https://tailwindcss.com/docs/min-height) class introduced in TailwindCSS 3.4, or add it yourself if below that version. 
+
 ## About
 
 A "feature" of WebKit is that on iOS the screen flows a bit onder the main viewport. This was [reported as a bug](https://bugs.webkit.org/show_bug.cgi?id=141832) on the WebKit bug tracker and closed as WontFix.
